@@ -6,7 +6,7 @@ page-layout: full
 ::: {.hero-grid}
 
 ::: {.hero-text}
-#### PROJECT-INTEREST
+#### LGTs into Dinoflagellates
 
 :::
 <!--
@@ -33,11 +33,11 @@ Here you'll find information about my research, outreach and education activitie
 ::: {.content-card}
 ## Contact
 
-##### YOUR-NAME
+##### Ella Greene
 
 
 ##### Email:
-[your-wm-username (at) wm.edu](mailto:wm-email-address)
+[egreene(at)wm.edu](mailto:egreene@wm.edu)
 
 ##### Mailing Address:
 
@@ -46,5 +46,5 @@ Here you'll find information about my research, outreach and education activitie
 
 ### Find me online
 
-- [GitHub](your-github)
+- [GitHub](https://emgreene131.github.io/emgreene131/)
 :::
