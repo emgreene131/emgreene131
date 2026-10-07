@@ -8,22 +8,49 @@
   {
     "listing": "/meetings.html",
     "items": [
-      "/projects/my-project/meeting-notes/meeting-1.html"
+      "/projects/life_cycles/meeting-notes/meeting-1.html",
+      "/projects/my_project/meeting-notes/meeting-1.html"
     ]
   },
   {
     "listing": "/projects/my-project/index.html",
     "items": [
       "/projects/my-project/meeting-notes/meeting-1.html",
-      "/reading-notes/demopaper1.html",
-      "/projects/my-project/idea-note1.html",
-      "/lab-notebook/week-of-2026-09-14.html"
+      "/projects/my-project/idea-note1.html"
     ]
   },
   {
     "listing": "/lab-notebook/index.html",
     "items": [
-      "/lab-notebook/week-of-2026-09-14.html"
+      "/lab-notebook/week-of-2026-10-05.html"
+    ]
+  },
+  {
+    "listing": "/projects/my-project copy/index.html",
+    "items": [
+      "/projects/my-project copy/meeting-notes/meeting-1.html",
+      "/projects/my-project copy/idea-note1.html"
+    ]
+  },
+  {
+    "listing": "/projects/life_cycles/index.html",
+    "items": [
+      "/projects/life_cycles/meeting-notes/meeting-1.html",
+      "/projects/life_cycles/idea-note1.html"
+    ]
+  },
+  {
+    "listing": "/projects/culturing/index.html",
+    "items": [
+      "/projects/culturing/meeting-notes/meeting-1.html",
+      "/projects/culturing/idea-note1.html"
+    ]
+  },
+  {
+    "listing": "/projects/my_project/index.html",
+    "items": [
+      "/projects/my_project/meeting-notes/meeting-1.html",
+      "/projects/my_project/idea-note1.html"
     ]
   }
 ]

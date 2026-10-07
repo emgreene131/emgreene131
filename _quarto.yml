@@ -14,7 +14,8 @@ website:
       - meetings.qmd
       - text: "Projects"
         menu:
-        - projects/my-project/index.qmd
+        - projects/my_project/index.qmd
+        - projects/life_cycles/index.qmd
     sidebar:
       contents: auto
 format:

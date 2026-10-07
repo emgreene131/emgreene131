@@ -1,5 +1,5 @@
 ---
-title: 'my-project'
+title: 'Dinoflagellate Life Cycles'
 format: html
 listing:
   - id: meeting-notes
@@ -12,7 +12,7 @@ listing:
     type: table
     fields: [year, title, author]
     include:
-      projects: "*my-project*"
+      projects: "Dinoflagellate Life Cycles"
   - id: other-ideas
     contents: "idea*.qmd"
     type: table
@@ -26,13 +26,12 @@ listing:
     type: table
     fields: [title, projects, keywords]
     include:
-      projects: "*my-project*"
+      projects: "Dinoflagellate Life Cycles"
 ---
 
 ## About this project
 
-Overarching goal of the project goes here
-
+The goal of this project is to visualize dinoflagellates in different life cycle stages using DAPI and fluorescence microscopy.
 ---
 
 ## Lab notebook entries

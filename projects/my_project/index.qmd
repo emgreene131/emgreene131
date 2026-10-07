@@ -1,0 +1,63 @@
+---
+title: 'Culturing Environmental Dinoflagellates'
+format: html
+listing:
+  - id: meeting-notes
+    contents: "meeting-notes/*.qmd"
+    type: table
+    fields: [date, title, attendees]
+    filter-ui: [title, date, attendees]
+  - id: reading-notes
+    contents: "../../reading-notes/*.qmd"
+    type: table
+    fields: [year, title, author]
+    include:
+      projects: "Culturing Environmental Dinoflagellates"
+  - id: other-ideas
+    contents: "idea*.qmd"
+    type: table
+    fields: [date, title]
+    sort-ui: false
+    filter-ui: false
+  - id: timeline
+    sort-ui: false
+    filter-ui: false
+    contents: "../../lab-notebook/*.qmd"
+    type: table
+    fields: [title, projects, keywords]
+    include:
+      projects: "Culturing Environmental Dinoflagellates"
+---
+
+## About this project
+
+The goal of this project is to figure out how to culture environmental dinoflagellates successfully in a lab setting so that we can do further analysis.
+---
+
+## Lab notebook entries
+
+:::{#timeline}
+:::
+
+---
+
+## Concept notes and other ideas
+
+:::{#other-ideas}
+:::
+
+---
+
+## Reading notes
+
+:::{#reading-notes}
+:::
+
+---
+
+## Meeting notes
+
+:::{#meeting-notes}
+:::
+
+---
