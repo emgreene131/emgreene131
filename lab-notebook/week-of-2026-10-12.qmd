@@ -1,0 +1,28 @@
+---
+title: "Week of 2026-10-12"
+author: "Ella Greene"
+date: 2026-10-12
+projects: culturing
+keywords: ""
+---
+
+## Goals for the week
+
+- [ ] Try sequencing
+- [ ] Start a growth curve
+- [ ] Figure out counting protocol
+- [ ] Try DAPI staining
+- [ ] Practice imaging DAPI-stained dinoflagellates
+- [ ] Work on by-catch spreadsheet
+
+## Monday
+
+* 
+
+## Tuesday
+
+## Wednesday
+
+## Thursday
+
+## Friday

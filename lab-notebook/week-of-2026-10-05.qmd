@@ -8,8 +8,8 @@ keywords: ""
 
 ## Goals for the week
 
-- [ ] Map ISC buckets
-- [ ] Determine which buckets are best for dinoflagellate sampling
+- [x] Map ISC buckets
+- [x] Determine which buckets are best for dinoflagellate sampling
 - [ ] Figure out culturing protocol to try next week
 
 ## Monday
