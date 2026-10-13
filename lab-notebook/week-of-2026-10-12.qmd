@@ -2,24 +2,31 @@
 title: "Week of 2026-10-12"
 author: "Ella Greene"
 date: 2026-10-12
-projects: culturing
+projects: culturing, life-cycle
 keywords: ""
 ---
 
 ## Goals for the week
 
-- [ ] Try sequencing
-- [ ] Start a growth curve
-- [ ] Figure out counting protocol
-- [ ] Try DAPI staining
+- [ ] Try extraction
+- [x] Start a growth curve
+- [x] Figure out counting protocol
+- [x] Try DAPI staining
 - [ ] Practice imaging DAPI-stained dinoflagellates
 - [ ] Work on by-catch spreadsheet
 
 ## Monday
 
-* 
+* Sampled from ISC bucket #3 --> 2.5 mL into 25 mL water in tissue culture flask
+* Counting protocol: https://latzlab.ucsd.edu/bioluminescence/dinoflagellates/dinoflagellate-culturing/
+  * used 100 uL instead of 200 uL; 3x instead of 5x
+* Tried DAPI staining on same ISC bucket #3 sample, protocol in lab doc
 
 ## Tuesday
+
+* Holobiome team meeting
+* Checked on growth curve and took measurements, put in computer room
+* 
 
 ## Wednesday
 
